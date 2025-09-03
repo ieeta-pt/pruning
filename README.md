@@ -44,5 +44,16 @@ Certain gradient computations for `r` and `τ` require approximations—for exam
 ---
 
 ## Detailed Description  
+
+### Master's Thesis
+
+**Author:** Guilherme Pereira  
+**Program:** Mathematical Engineering  
+**Institution:** Faculty of Sciences, University of Porto (FCUP)  
+
+**Scientific Orientation:**  
+- João Pedro Pedroso, Associate Professor, Faculty of Sciences, University of Porto  
+- Sónia Gouveia, Assistant Researcher, University of Aveiro
+
 For a full mathematical formulation and an in-depth explanation, see:  
 [AGradientBasedApproachToAdaptiveNeuralNetworkPruning.pdf](./AGradientBasedApproachToAdaptiveNeuralNetworkPruning.pdf)
